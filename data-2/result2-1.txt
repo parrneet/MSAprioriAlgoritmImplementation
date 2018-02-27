@@ -1,0 +1,22 @@
+Frequent 1 - itemsets:
+
+	1: {1}
+	5: {2}
+	4: {3}
+	12: {13}
+
+	Total number of Frequent 1 sets: 4
+
+Frequent 2- itemsets:
+
+	1: {[1, 30]}
+ Tail count :13
+
+
+	2: {[2, 25]}
+ Tail count :13
+
+
+
+	Total number of Frequent 2 sets: 2
+

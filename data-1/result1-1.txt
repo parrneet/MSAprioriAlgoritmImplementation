@@ -1,0 +1,7 @@
+Frequent 1 - itemsets:
+
+	7: {20}
+	6: {70}
+
+	Total number of Frequent 1 sets: 2
+
